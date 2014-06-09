@@ -1,3 +1,3 @@
 # Project Stub
 
-This is a sample project application.
+This is a sample project application!
